@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(11, 6, 59);
+}
+
+h1{
+    text-align: center;
+    padding-top: 10em;
+    color: blueviolet;
+}
+h3{
+    padding-top: 30em;
+    text-align: center;
+    color: blueviolet;
+
+}
+header{
+    display: flex;
+}
+header > p {
+    margin: 0;
+} 
+h2{
+    padding-left: 5em;
+    color: blueviolet;
+    text-align: center;
+
+}
+
+h4{
+    text-align: center;
+    color: blueviolet;
+
+}
+a{
+    padding-left: 1em;
+    font-size: 150%;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 230px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+button {
+    background-color: rgb(180, 182, 255);
+}

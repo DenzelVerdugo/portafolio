@@ -1,0 +1,28 @@
+body{
+    background-color: #201658;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: #1D24CA;
+}
+.imagen1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: #1D24CA;
+}
+table{
+    border: 1;
+    color: #98ABEE;
+}
+h5{
+    color: #98ABEE;
+}
+ul{
+    color: #98ABEE;
+}
+ol{
+    color: #98ABEE;
+}
